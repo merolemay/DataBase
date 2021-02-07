@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\User\source\repos\DataBase\bin\Debug\DataBase.exe
+C:\Users\User\source\repos\DataBase\bin\Debug\DataBase.pdb
+C:\Users\User\source\repos\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\User\source\repos\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\User\source\repos\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DataBase\obj\Debug\DataBase.exe
+C:\Users\User\source\repos\DataBase\obj\Debug\DataBase.pdb
